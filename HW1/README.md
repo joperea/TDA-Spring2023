@@ -19,7 +19,7 @@ The goals of this homework assignment are:
 Get Python installed in your machine. I suggest using the latest Anaconda distribution: https://www.anaconda.com/products/distribution
 
 #### Step 2:
-We will first create and activate a separate conda environment for the course. This is so it does not conflict with any other packages in your Python installation. **Open a terminal (Linux/mac) | an Anaconda Powsershell Prompt (Windows)** and run
+We will first create and activate a separate conda environment for the course. This is so we don't create conflicts with any other packages in your Python installation. **Open a terminal (Linux/mac) | an Anaconda Powsershell Prompt (Windows)** and run
 ```
 conda create -n TDA python=3.9
 ```
