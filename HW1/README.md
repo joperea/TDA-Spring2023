@@ -44,7 +44,7 @@ Download the "notebook_HW1.ipynb" file to your computer.
 * Option 3: Click on the file name in the repository, click raw, download as .txt, rename to .ipynb ; see [this video](https://www.gitkraken.com/learn/git/github-download#how-to-downlaod-a-file-from-github)
 
 #### Step 4:
-Open the donwloaded juPyter notebook. With the currently opened terminal run:
+Open the donwloaded juPyter notebook: In the currently opened terminal (with the TDA environment activated) run:
 ```
 jupyter notebook
 ```
