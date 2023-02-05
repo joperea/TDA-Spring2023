@@ -29,7 +29,7 @@ conda activate TDA
 Every time you want to run code from this course, you will need to activate the TDA environment as described above.
 Next, we install the needed dependencies by running
 ```
-pip install glasbey sklearn jupyterlab
+pip install glasbey scikit-learn jupyterlab
 ```
 
 To deactivate it (don't do it now) and go back to your base Python installation, simply run:
