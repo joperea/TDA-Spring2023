@@ -36,3 +36,9 @@ To deactivate it (don't do it now) and go back to your base Python installation,
 ```
 conda deactivate
 ```
+
+#### Step 3:
+Download the "notebook_HW1.ipynb" file to your computer. 
+* Option 1: Use the following [link](https://joperea.squarespace.com/s/notebook_HW1.ipynb)
+* Option 2: Clone this repository and the file will be in your machine locally
+* Option 3: Click on the file above, click raw, download as .txt, rename to .ipynb
