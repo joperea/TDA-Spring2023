@@ -41,7 +41,7 @@ conda deactivate
 Download the "notebook_HW1.ipynb" file to your computer. 
 * Option 1: Use the following [link](https://joperea.squarespace.com/s/notebook_HW1.ipynb)
 * Option 2: Clone this repository and the file will be in your machine locally
-* Option 3: Click on the file name in the repository, click raw, download as .txt, rename to .ipynb ; see (this video)[https://www.gitkraken.com/learn/git/github-download#how-to-downlaod-a-file-from-github]
+* Option 3: Click on the file name in the repository, click raw, download as .txt, rename to .ipynb ; see [this video](https://www.gitkraken.com/learn/git/github-download#how-to-downlaod-a-file-from-github)
 
 #### Step 4:
 Open the donwloaded juPyter notebook. With the currently opened terminal run:
