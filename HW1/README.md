@@ -10,7 +10,7 @@ The goals of this homework assignment are:
 2. Download to your computer the file "notebook_HW1.ipynb"
 3. Do the activities within the notebook
 4. Save a pdf of the completed notebook (e.g., in the notebook go to File --> Print Preview --> Print: CTRL+P --> Save to pdf)
-5. Submit via email the pdf for the completed notebook.
+5. **Submit via email the pdf** for the completed notebook. **Due:** 2/12/2023 
 
 
 ### Installation instructions
