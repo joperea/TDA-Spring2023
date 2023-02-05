@@ -5,7 +5,7 @@ The goals of this homework assignment are:
 2. To get familiarized with Jupyter notebooks and basic Python code
 3. To see examples of clustering (k-means in this case) applied to real data sets
 
-## Instructions:
+## Assignment Instructions:
 1. Follow the steps described below to install python and anaconda on your machine
 2. Download to your computer the file "notebook_HW1.ipynb"
 3. Do the activities within the notebook
