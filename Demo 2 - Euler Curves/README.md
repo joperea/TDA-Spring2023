@@ -16,9 +16,7 @@ conda activate TDA
 and then run
 
 ```
-pip install bokeh
-pip install pymeshlab
-pip install hirola
+pip install bokeh pymeshlab hirola
 ```
 
 ## Getting the files
