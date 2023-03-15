@@ -41,3 +41,8 @@ pip install git+https://github.com/LuisScoccola/persistable.git@experimental
 ```
 pip install bokeh pymeshlab hirola
 ```
+
+#### Computing persistent homology (Demo 3):
+```
+pip install cython ripser plotly
+```
